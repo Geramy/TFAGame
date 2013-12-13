@@ -1,0 +1,11 @@
+﻿<Window>
+  <Content Y="100" align="center" background="1" Width="300" Height="200">
+    <Button onClick="StartGame()" Y="30" Content="Start Single Player"></Button>
+    <Button onClick="HostGame()" Y="60" Content="Host Multiplayer"></Button>
+    <Button onClick="JoinGame()" Y="90" Content="Join Multiplayer"></Button>
+    <Button Y="120" Content="Options"></Button>
+  </Content>
+  <TopBar Y="105" align="center" background="0" Width="290" Height="20">
+    <Text align="center" Content="Main Menu: Select a Option."></Text>
+  </TopBar>
+</Window>

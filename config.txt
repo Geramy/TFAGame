@@ -1,0 +1,3 @@
+﻿GCMode = Interactive
+GameController = -1
+MouseIndex = 0
